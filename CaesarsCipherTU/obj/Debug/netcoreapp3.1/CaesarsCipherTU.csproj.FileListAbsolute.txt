@@ -1,0 +1,13 @@
+C:\Users\amade\source\repos\CaesarsCipherTU\CaesarsCipherTU\bin\Debug\netcoreapp3.1\CaesarsCipherTU.exe
+C:\Users\amade\source\repos\CaesarsCipherTU\CaesarsCipherTU\bin\Debug\netcoreapp3.1\CaesarsCipherTU.deps.json
+C:\Users\amade\source\repos\CaesarsCipherTU\CaesarsCipherTU\bin\Debug\netcoreapp3.1\CaesarsCipherTU.runtimeconfig.json
+C:\Users\amade\source\repos\CaesarsCipherTU\CaesarsCipherTU\bin\Debug\netcoreapp3.1\CaesarsCipherTU.runtimeconfig.dev.json
+C:\Users\amade\source\repos\CaesarsCipherTU\CaesarsCipherTU\bin\Debug\netcoreapp3.1\CaesarsCipherTU.dll
+C:\Users\amade\source\repos\CaesarsCipherTU\CaesarsCipherTU\bin\Debug\netcoreapp3.1\CaesarsCipherTU.pdb
+C:\Users\amade\source\repos\CaesarsCipherTU\CaesarsCipherTU\obj\Debug\netcoreapp3.1\CaesarsCipherTU.csprojAssemblyReference.cache
+C:\Users\amade\source\repos\CaesarsCipherTU\CaesarsCipherTU\obj\Debug\netcoreapp3.1\CaesarsCipherTU.AssemblyInfoInputs.cache
+C:\Users\amade\source\repos\CaesarsCipherTU\CaesarsCipherTU\obj\Debug\netcoreapp3.1\CaesarsCipherTU.AssemblyInfo.cs
+C:\Users\amade\source\repos\CaesarsCipherTU\CaesarsCipherTU\obj\Debug\netcoreapp3.1\CaesarsCipherTU.csproj.CoreCompileInputs.cache
+C:\Users\amade\source\repos\CaesarsCipherTU\CaesarsCipherTU\obj\Debug\netcoreapp3.1\CaesarsCipherTU.dll
+C:\Users\amade\source\repos\CaesarsCipherTU\CaesarsCipherTU\obj\Debug\netcoreapp3.1\CaesarsCipherTU.pdb
+C:\Users\amade\source\repos\CaesarsCipherTU\CaesarsCipherTU\obj\Debug\netcoreapp3.1\CaesarsCipherTU.genruntimeconfig.cache

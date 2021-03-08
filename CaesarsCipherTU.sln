@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaesarsCipherTU", "CaesarsCipherTU\CaesarsCipherTU.csproj", "{DD0E3951-34E5-4F36-B94F-9B7112A0E997}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F43B9606-54EC-4785-B916-1C09BA312098}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CeasarsCipher.Tests", "CeasarsCipher.Tests\CeasarsCipher.Tests.csproj", "{D28EF884-777E-4436-8C5D-1F5B5D89DCC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD0E3951-34E5-4F36-B94F-9B7112A0E997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD0E3951-34E5-4F36-B94F-9B7112A0E997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD0E3951-34E5-4F36-B94F-9B7112A0E997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD0E3951-34E5-4F36-B94F-9B7112A0E997}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D28EF884-777E-4436-8C5D-1F5B5D89DCC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28EF884-777E-4436-8C5D-1F5B5D89DCC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28EF884-777E-4436-8C5D-1F5B5D89DCC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28EF884-777E-4436-8C5D-1F5B5D89DCC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D28EF884-777E-4436-8C5D-1F5B5D89DCC4} = {F43B9606-54EC-4785-B916-1C09BA312098}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEEE2B5B-12DE-4ADD-80A1-7C07C55AACE9}
+	EndGlobalSection
+EndGlobal
